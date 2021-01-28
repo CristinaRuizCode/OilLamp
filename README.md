@@ -4,12 +4,18 @@
 A small flicker of the light has been programmed for more realism. 
 
 If no oil is available, it will be indicated by a message
-![](gifs/OilLamp.gif)
+<p align="center">
+  <img src="gifs/OilLamp.gif" alt="animated" />
+</p>
 
 An editor has been created to facilitate setup and testing
+<p align="center">
+  <img src="gifs/EditorOilLamp.gif" alt="animated" />
+</p>
 
-![](gifs/EditorOilLamp.gif)
+<p align="center">
+:link: COPYRIGHT :link:
+</p>
 
-:link: Copyright :link:
-
-All the scripts and models in this repository have been created by me and should not be used for commercial or personal projects without permission and without attribution
+All the scripts and models in this repository have been created by me and should not be used for commercial or personal projects without permission and without attribution.
+ 
